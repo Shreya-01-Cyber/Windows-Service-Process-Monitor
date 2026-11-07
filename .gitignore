@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated logs
+logs/
+*.log
+
+# Generated monitoring reports
+reports/*.txt
+reports/alerts.json
+
+# Local configuration
+config.json
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
